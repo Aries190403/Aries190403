@@ -4,7 +4,7 @@ My name is Van Hen. I am a Web Frontend Developer.<br>
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vanhen.tran.2003) 
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white)](https://join.skype.com/invite/ptZCR9VvG49a) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](www.linkedin.com/in/trần-văn-hên-3683722b9)
+
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Aries190403&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
