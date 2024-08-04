@@ -13,6 +13,11 @@ My name is Van Hen. I am a Web Frontend Developer.<br>
 
 ## Reponsitory
 
+<a href="https://github.com/Aries190403/NoiThat_DATN">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Aries190403&repo=NoiThat_DATN&theme=highcontrast" />
+</a>
+
 <a href="https://github.com/Aries190403/DOAN">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Aries190403&repo=DOAN&theme=vision-friendly-dark" />
@@ -28,8 +33,5 @@ My name is Van Hen. I am a Web Frontend Developer.<br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Aries190403&repo=react_app&theme=radical" />
 </a>
 
-<a href="https://github.com/Aries190403/Aries190403">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Aries190403&repo=Aries190403&theme=highcontrast" />
-</a>
+
    
