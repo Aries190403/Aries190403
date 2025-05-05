@@ -1,10 +1,9 @@
-### WELCOME TO MY PAGE 👋👋👋
+### WELCOME TO MY PAGE 👋👋
 My name is Van Hen. I am a Web Developer.<br>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vanhen.tran.2003) 
-[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Skype&logoColor=white)](https://join.skype.com/invite/ptZCR9VvG49a) 
-
+[![Zalo](https://img.shields.io/badge/Zalo-007AFF?logo=chat&logoColor=white)](https://zalo.me/0382154076)
 
 ## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Aries190403&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
